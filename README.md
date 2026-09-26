@@ -16,9 +16,6 @@ Userscripts (Tampermonkey) de automação para o jogo [pkhunt.online](https://pk
 3. O Tampermonkey vai abrir automaticamente a tela de instalação — clique em **Install**.
 4. Pronto! O script já fica ativo em [pkhunt.online](https://pkhunt.online).
 
-## Atualizações
-
-Cada script já vem configurado com `@updateURL`/`@downloadURL` apontando para o respectivo Gist. Sempre que uma nova versão for salva lá, o Tampermonkey vai avisar automaticamente sobre a atualização disponível.
 
 ## Configuração
 
